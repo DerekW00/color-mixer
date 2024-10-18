@@ -12,16 +12,16 @@ This project is a personalized acrylic color mixing assistant powered by GPT-4. 
 ## Technology Stack
 - **Python**: For backend logic and GPT-4 integration.
 - **GPT-4 API**: Handles the color mixing and color theory guidance.
-- **Flask (optional)**: For a simple web interface (if using a web app).
+- **Flask (optional)**: For a simple web interface.
 - **SQLite/JSON**: To store user palette data.
-- **HTML/CSS/JavaScript**: For the front-end interface (if applicable).
+- **HTML/CSS/JavaScript**: For the front-end interface.
 
 ## Installation
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/acrylic-mixing-assistant.git
-    cd acrylic-mixing-assistant
+    git clone https://github.com/DerekW00/color-mixer.git
+    cd color-mixer
     ```
 
 2. **Set up a virtual environment (optional but recommended)**:
